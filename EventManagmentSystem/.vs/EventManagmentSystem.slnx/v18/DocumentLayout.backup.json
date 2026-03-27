@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\controllers\\servicestablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\controllers\\servicestablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\servicestablecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\servicestablecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\database\\servicestabledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\database\\servicestabledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\database\\servicesimgmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\database\\servicesimgmanagementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\database\\servicescategorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\database\\servicescategorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\controllers\\servicesimgmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\controllers\\servicesimgmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\servicesimagemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\servicesimagemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\database\\bookingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\database\\bookingdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\servicescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\servicescategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\database\\signupdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\database\\signupdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\loginout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\loginout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\controllers\\signupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\controllers\\servicescategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\controllers\\servicescategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|c:\\users\\hp\\source\\repos\\eventmanagmentsystem\\eventmanagment\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA2C097-5A3B-6E7F-B848-6607596C650F}|EventManagment\\EventManagment.csproj|solutionrelative:eventmanagment\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{ed7d6f85-175b-4b57-9887-71fe8b865fc8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesimgManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\ServicesimgManagementController.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Controllers\\ServicesimgManagementController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\ServicesimgManagementController.cs",
+              "RelativeToolTip": "EventManagment\\Controllers\\ServicesimgManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:02:27.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "servicesimgManagementDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\servicesimgManagementDB.cs",
+              "RelativeDocumentMoniker": "EventManagment\\DataBase\\servicesimgManagementDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\servicesimgManagementDB.cs",
+              "RelativeToolTip": "EventManagment\\DataBase\\servicesimgManagementDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:00:51.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "servicescategoryDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\servicescategoryDB.cs",
+              "RelativeDocumentMoniker": "EventManagment\\DataBase\\servicescategoryDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\servicescategoryDB.cs",
+              "RelativeToolTip": "EventManagment\\DataBase\\servicescategoryDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:52:06.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "servicesTableDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\servicesTableDB.cs",
+              "RelativeDocumentMoniker": "EventManagment\\DataBase\\servicesTableDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\servicesTableDB.cs",
+              "RelativeToolTip": "EventManagment\\DataBase\\servicesTableDB.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAEsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T06:22:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "servicesTableController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\servicesTableController.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Controllers\\servicesTableController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\servicesTableController.cs",
+              "RelativeToolTip": "EventManagment\\Controllers\\servicesTableController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T06:23:28.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "servicesTablecs.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\servicesTablecs.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\servicesTablecs.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\servicesTablecs.cs",
+              "RelativeToolTip": "EventManagment\\Models\\servicesTablecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T17:00:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServicesImageManagement.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\ServicesImageManagement.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\ServicesImageManagement.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\ServicesImageManagement.cs",
+              "RelativeToolTip": "EventManagment\\Models\\ServicesImageManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:59:51.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bookingController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\bookingController.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Controllers\\bookingController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\bookingController.cs",
+              "RelativeToolTip": "EventManagment\\Controllers\\bookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:46:32.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bookingDb.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\bookingDb.cs",
+              "RelativeDocumentMoniker": "EventManagment\\DataBase\\bookingDb.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\bookingDb.cs",
+              "RelativeToolTip": "EventManagment\\DataBase\\bookingDb.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:46:59.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "booking.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\booking.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\booking.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\booking.cs",
+              "RelativeToolTip": "EventManagment\\Models\\booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:47:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "servicescategory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\servicescategory.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\servicescategory.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\servicescategory.cs",
+              "RelativeToolTip": "EventManagment\\Models\\servicescategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:48:32.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignupDB.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\SignupDB.cs",
+              "RelativeDocumentMoniker": "EventManagment\\DataBase\\SignupDB.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\DataBase\\SignupDB.cs",
+              "RelativeToolTip": "EventManagment\\DataBase\\SignupDB.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwCsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T09:01:27.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginOut.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\LoginOut.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\LoginOut.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\LoginOut.cs",
+              "RelativeToolTip": "EventManagment\\Models\\LoginOut.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T09:12:26.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignupController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\SignupController.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Controllers\\SignupController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\SignupController.cs",
+              "RelativeToolTip": "EventManagment\\Controllers\\SignupController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T09:08:12.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "servicescategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\servicescategoryController.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Controllers\\servicescategoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Controllers\\servicescategoryController.cs",
+              "RelativeToolTip": "EventManagment\\Controllers\\servicescategoryController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:52:53.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Program.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Program.cs",
+              "RelativeToolTip": "EventManagment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T09:12:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\Login.cs",
+              "RelativeToolTip": "EventManagment\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T09:59:27.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "signup.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\signup.cs",
+              "RelativeDocumentMoniker": "EventManagment\\Models\\signup.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\EventManagmentSystem\\EventManagment\\Models\\signup.cs",
+              "RelativeToolTip": "EventManagment\\Models\\signup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T07:14:28.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
