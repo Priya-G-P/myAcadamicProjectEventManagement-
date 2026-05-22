@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  /* Shift all Sky & Blue Branding to Purple & Fuchsia for global theme change */
+  --color-sky-50: var(--color-purple-50);
+  --color-sky-100: var(--color-purple-100);
+  --color-sky-300: var(--color-fuchsia-300);
+  --color-sky-400: var(--color-purple-500);
+  --color-sky-500: var(--color-purple-600);
+  --color-sky-600: var(--color-purple-700);
+  --color-sky-700: var(--color-purple-800);
+  
+  --color-blue-50: var(--color-purple-50);
+  --color-blue-100: var(--color-fuchsia-100);
+  --color-blue-300: var(--color-purple-300);
+  --color-blue-400: var(--color-purple-400);
+  --color-blue-500: var(--color-purple-600);
+  --color-blue-600: var(--color-purple-700);
+  --color-blue-900: var(--color-indigo-950);
+}
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    @apply bg-gray-50 text-gray-900 font-sans;
+  }
+}
+
+/* Custom scrollbar for modern looks */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+  background: #c084fc; 
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #a855f7; 
+}
+
+/* Page Transition Animations */
+@keyframes smoothFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+.animate-smooth-landing {
+  animation: smoothFadeIn 0.6s ease-out;
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 3s linear infinite;
+}

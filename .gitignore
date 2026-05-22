@@ -1,0 +1,84 @@
+# =========================
+# React + ASP.NET Web API
+# =========================
+
+# ---------- React ----------
+node_modules/
+build/
+dist/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ---------- ASP.NET ----------
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+!packages/build/
+
+# Publish output
+publish/
+wwwroot/uploads/
+
+# Entity Framework
+*.dbmdl
+
+# IIS Express
+iisexpress/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ---------- OS Files ----------
+.DS_Store
+Thumbs.db
+
+# ---------- Editor ----------
+.vscode/
+*.swp
+*.swo
+
+# ---------- Temporary ----------
+temp/
+tmp/
+*.tmp
+
+# ---------- Logs ----------
+logs/
+*.log
+
+# ---------- Optional ----------
+# Uncomment if needed
+
+# appsettings secrets
+# appsettings.Development.json
+
+# SSL certificates
+# *.pfx
+# *.key
